@@ -56,7 +56,6 @@ Let's connect, collaborate, and grow through data, analytics, and SAP innovation
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjay_vudayagiri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-udayagiri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjayudayagiri1003@gmail.com) 
 
 # 💻 Tech Stack:
-# 💻 Tech Stack:
 ![SAP BW](https://img.shields.io/badge/SAP_BW-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
